@@ -1,0 +1,425 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Constants$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Constants.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Advertiser$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Advertiser.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/AdvertiserJsonProtocol$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/AdvertiserJsonProtocol.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/CorrAdvertiser$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/CorrAdvertiser.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1$Advertiser$4.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1$Advertiser$5$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$2.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$4.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$5.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$6.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$1.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$2.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$7.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$8.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$main$1.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$typecreator1$1.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$.class
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main.class
+binary dependencies:
+13 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> /Users/atomkevich/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> /Users/atomkevich/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/io.spray/spray-httpx_2.11/bundles/spray-httpx_2.11-1.3.3.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.3.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.6.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> /Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> Constants
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> Constants$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Advertiser
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Advertiser$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AdvertiserJsonProtocol
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AdvertiserJsonProtocol$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> CorrAdvertiser
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> CorrAdvertiser$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$1
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$1$Advertiser$4
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$1$Advertiser$5$
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$2
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$4
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$5
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$6
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$apply$1
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$apply$2
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$7
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$8
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$anonfun$main$1
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main$$typecreator1$1
+used names:
+245 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> <init>
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> AnyRef
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> ConfigFactory
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> Constants
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> com
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> conf
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> config
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> getInt
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> getString
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> load
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> ppasAdvertisersUrl
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> ppasTicket
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> scala
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> typesafe
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> !=
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> $m
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> $m$untyped
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> $typecreator1
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> $u
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> &&
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> +
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ++
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ::
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> <init>
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ==
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> >
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AbstractFunction7
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AbstractFunction8
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AdditionalFormats
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Advertiser
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> AdvertiserJsonProtocol
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Array
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Boolean
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> BooleanJsonFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ClassManifestFactory
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ClassTag
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Codec
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Constants
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> CorrAdvertiser
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> DataFrame
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> DefaultHttpClient
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> DefaultJsonProtocol
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> HttpClientBuilder
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> HttpGet
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> HttpPost
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> HttpPut
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Int
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> IntJsonFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Iterable
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> List
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Main
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Mirror
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> None
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Nothing
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Option
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Ordering
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Predef
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Product
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> RDD
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> RootJsonFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Row
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ScalaRunTime
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Seq
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Serializable
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Singleton
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Source
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> SparkConf
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> SparkContext
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> SparkSession
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> SprayJsonSupport
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Statics
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> String
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> StringEntity
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> StringJsonFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Thread
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Type
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> TypeCreator
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> TypeTag
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> U
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> Universe
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> _toString
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> active
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> addHeader
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> adv
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> adv_total
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> advertiserFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> advertiserPPASURL
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> advertisers
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> advs
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> affiliatedAdvertiserId
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> anyHash
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> apache
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> apply
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> asInstanceOf
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> asType
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> build
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> builder
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> canBuildFrom
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> categoryId
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> categoryName
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> classType
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> client
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> close
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> collection
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> conf
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> config
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> content
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> convertTo
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> correctAdv
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> correctAdvertisers
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> correctName
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> create
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> createDataFrame
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> empty
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> entity
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> eq
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> execute
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> fallbackSystemCodec
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> filter
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> filtered
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> finalizeHash
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> find
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> flatMap
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> foreach
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> format
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> fromInputStream
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> get
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getAllAdvertisersFromPPas
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getAs
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getClass
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getClassLoader
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getConnectionManager
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getContent
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getEntity
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getLines
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getOrCreate
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> getRestContent
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> groupBy
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> head
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> http
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> httpClient
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> httpResponse
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> httpx
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> i
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> id
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> identity
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> immutable
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> impl
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> inputStream
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> io
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> isInstanceOf
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> java
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> join
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> joinedAdvvertisers
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> json
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> jsonAdv
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> jsonFormat7
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> jsonStr
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> lang
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> listFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> load
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> map
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> mapValues
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> materializeClassTag
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> materializeTypeTag
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> math
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> methods
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> mix
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> name
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> option
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> optionFormat
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> org
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> package
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> parallelize
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> parseJson
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> pimpAny
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> pimpString
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ppasAdvertisers
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ppasAdvertisersRDD
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ppasAdvertisersUrl
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ppasTicket
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> prettyPrint
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> printSchema
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> println
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> put
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> r
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> rdd
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> rddToPairRDDFunctions
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> read
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> received
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> receivedSize
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> reflect
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> renamedDataframe
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> response
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> result
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> runtime
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> runtimeMirror
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> scala
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> select
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> setAppName
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> setEntity
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> setHeader
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> setMaster
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> shutdown
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> size
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> sleep
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> spark
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> sparkContext
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> spray
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> sql
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> sqlcontext
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> start
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> staticClass
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> str
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toAdv
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toDF
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toJson
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toList
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toString
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> toTypeConstructor
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> totalAdv
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> total_advertisers
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> typedProductIterator
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> universe
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> values
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> vatId
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> while$1
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$10
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$11
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$12
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$13
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$14
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$15
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$16
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$17
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$18
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$19
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$20
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$5
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$6
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$7
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$8
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> x$9
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> ||
+product stamps:
+24 items
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Advertiser$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Advertiser.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/AdvertiserJsonProtocol$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/AdvertiserJsonProtocol.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Constants$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Constants.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/CorrAdvertiser$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/CorrAdvertiser.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1$Advertiser$4.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1$Advertiser$5$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$1.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$2.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$4.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$5.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$6.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$1.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$2.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$3.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$7.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$8.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$anonfun$main$1.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$$typecreator1$1.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main$.class -> lastModified(1487166301000)
+/Users/atomkevich/dev/workspace/correct_ADV/target/scala-2.11/classes/Main.class -> lastModified(1487166301000)
+source stamps:
+2 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> hash(ee4d511d2f813af269479fadf4fc7f54dae21d54)
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> hash(c9858d84ce2dc3695dd7b5a2ac27110e17ec92b8)
+binary stamps:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1454109346000)
+/Users/atomkevich/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar -> lastModified(1474721599000)
+/Users/atomkevich/.ivy2/cache/io.spray/spray-httpx_2.11/bundles/spray-httpx_2.11-1.3.3.jar -> lastModified(1427205060000)
+/Users/atomkevich/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar -> lastModified(1483006084000)
+/Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.3.jar -> lastModified(1485014422000)
+/Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.6.jar -> lastModified(1483797006000)
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/atomkevich/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/atomkevich/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457496962000)
+class names:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/atomkevich/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar -> com.typesafe.config.ConfigFactory
+/Users/atomkevich/.ivy2/cache/io.spray/spray-httpx_2.11/bundles/spray-httpx_2.11-1.3.3.jar -> spray.httpx.SprayJsonSupport
+/Users/atomkevich/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar -> spray.json.AdditionalFormats
+/Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.3.jar -> org.apache.http.client.methods.HttpEntityEnclosingRequestBase
+/Users/atomkevich/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.6.jar -> org.apache.http.HttpResponse
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Row$
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkConf
+/Users/atomkevich/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SparkSession
+/Users/atomkevich/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Product
+/Users/atomkevich/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+2 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCNxidTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOCqZct0AAZub3RpZnlzcQB+AAy0AoisdAAEd2FpdHNxAH4ADBLCOIR0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1J9u4XQAEnBwYXNBZHZlcnRpc2Vyc1VybHNxAH4ADClh2Kp0AAZlcXVhbHNzcQB+AAz5zmXFdAAMYXNJbnN0YW5jZU9mc3EAfgAMetx24XQACUNvbnN0YW50c3NxAH4ADP6C0ER0AAxzeW5jaHJvbml6ZWRzcQB+AAzOScXjdAANJGlzSW5zdGFuY2VPZnNxAH4ADFGG9eF0AAlub3RpZnlBbGxzcQB+AAxy9QysdAAEY29uZnNxAH4ADAD+Vol0AAxpc0luc3RhbmNlT2ZzcQB+AAzvGcvBdAAKcHBhc1RpY2tldHNxAH4ADEWOjWZ0AAI9PXNxAH4ADN2FOVp0AAVjbG9uZXNxAH4ADEn3P1Z0AAh0b1N0cmluZ3NxAH4ADP4/uJ50AAIhPXNxAH4ADN9BSMh0AAhnZXRDbGFzc3NxAH4ADPLKLEt0AAJuZXNxAH4ADBSxDnZ0AAJlcXNxAH4ADCEKEzx0AAIjI3NxAH4ADIqE1HZ0AAhmaW5hbGl6ZXNxAH4ADKDHqWp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF14cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFwAcHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGVzcQB+AFwAcHNxAH4AYXVxAH4AQAAAAABzcQB+AFwAcHNxAH4AYXVxAH4AQAAAAABzcQB+AFwAcHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgnNxAH4AdXQAA0FueXNxAH4AeXNxAH4AfHVxAH4AfwAAAAJzcQB+AIF0AAVzY2FsYXEAfgCIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpCBNIYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9hdG9ta2V2aWNoL2Rldi93b3Jrc3BhY2UvY29ycmVjdF9BRFYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO5NUR0vgTryaUefrfT8f1Ta4h1U
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCbp2AsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwx+FBOHQADlVuaXRKc29uRm9ybWF0c3EAfgAL5ZzdLHQAHnNwcmF5SnNvblVubWFyc2hhbGxlckNvbnZlcnRlcnNxAH4AC1AlrrR0AApsaXN0Rm9ybWF0c3EAfgALQ7BlS3QADHZlY3RvckZvcm1hdHNxAH4ACzKAOMd0ABBhZHZlcnRpc2VyRm9ybWF0c3EAfgALOyqdTHQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC5EoaZR0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC/+NkDR0AAlzZXRGb3JtYXRzcQB+AAsZqGWcdAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAsJXf1SdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgAL/IGsd3QADUpzVmFsdWVGb3JtYXRzcQB+AAtT4iDVdAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAvlEFD5dAAMdHVwbGUxRm9ybWF0c3EAfgALmwZo5XQAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAsUEuhDdAAMb3B0aW9uRm9ybWF0c3EAfgALJ03OU3QAD2xpbmVhclNlcUZvcm1hdHNxAH4AC+pZyaB0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALw2110nQAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAsv8Bq5dAAMdHVwbGU1Rm9ybWF0c3EAfgALe7n+9HQADHR1cGxlM0Zvcm1hdHNxAH4AC8BqJj50ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAvXhiu8dAAMdHVwbGU3Rm9ybWF0c3EAfgALz+idtHQAE3NwcmF5SnNvbk1hcnNoYWxsZXJzcQB+AAuIuhQodAAMaW1tU2V0Rm9ybWF0c3EAfgALZzxTPXQADGVpdGhlckZvcm1hdHNxAH4ACxqHzZh0AA5DaGFySnNvbkZvcm1hdHNxAH4ACwyFBkh0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC47X7B90AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAts6YXZdAAMdHVwbGU2Rm9ybWF0c3EAfgALfmZS+HQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAuYxQrfdAALYXJyYXlGb3JtYXRzcQB+AAtAEvh1dAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAsaFWvEdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAuDu6b2dAAMdHVwbGUyRm9ybWF0c3EAfgAL81F56nQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAvxTpdVdAAMaW1tU2VxRm9ybWF0c3EAfgALUE3+LHQADHR1cGxlNEZvcm1hdHNxAH4AC3fpvjd0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAvO5xLHdAAOaXRlcmFibGVGb3JtYXRzcQB+AAtgXLdGdAANSW50SnNvbkZvcm1hdHNxAH4AC9EqH0x0ABBEb3VibGVKc29uRm9ybWF0c3EAfgAL1mv+XHQACW1hcEZvcm1hdHNxAH4AC0sTVqZ0AAlzZXFGb3JtYXRzcQB+AAv+kdecdAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAF9zcQB+AAu0iYbidAAGbm90aWZ5c3EAfgALoAr7yXQABHJlYWRzcQB+AAvm7ZoPdAAJZnJvbUZpZWxkc3EAfgALmfMFuHQAC2pzb25Gb3JtYXQ5c3EAfgALkKaoz3QAC2NvcnJlY3ROYW1lc3EAfgALBexRx3QADGpzb25Gb3JtYXQxNnNxAH4AC4TXbUF0AARuYW1lc3EAfgALkSbmmHQADGpzb25Gb3JtYXQyMHNxAH4AC9mTeXN0AApjYXRlZ29yeUlkc3EAfgALPzNut3QABHdhaXRzcQB+AAtcOAr+dAAGdmlhU2Vxc3EAfgALUQNH53QACmxhenlGb3JtYXRzcQB+AAvyTEU0dAAOY29weSRkZWZhdWx0JDJzcQB+AAt9xJ5HdAANJGFzSW5zdGFuY2VPZnNxAH4ACy4WBz10AAxqc29uRm9ybWF0MTJzcQB+AAvnNE8FdAAManNvbkZvcm1hdDEzc3EAfgALdRHSZnQAC2pzb25Gb3JtYXQyc3EAfgAL734r93QADmNvcHkkZGVmYXVsdCQ1c3EAfgAL1ZIMNHQADHByb2R1Y3RBcml0eXNxAH4AC0MHgbt0AAZlcXVhbHNzcQB+AAvtcOvudAALanNvbkZvcm1hdDZzcQB+AAtnEvBxdAAMY2F0ZWdvcnlOYW1lc3EAfgALwy8X6XQADGFzSW5zdGFuY2VPZnNxAH4ACxc4lXR0AAxqc29uRm9ybWF0MTVzcQB+AAvAjrvndAACSkZzcQB+AAvftVEAdAAKQWR2ZXJ0aXNlcnNxAH4AC7hJsxJ0AAxzeW5jaHJvbml6ZWRzcQB+AAsXEpX9dAAManNvbkZvcm1hdDExc3EAfgALZHzUVnQAFkFkdmVydGlzZXJKc29uUHJvdG9jb2xzcQB+AAvUTFDKdAANJGlzSW5zdGFuY2VPZnNxAH4AC1XZa7B0AAtqc29uRm9ybWF0NXNxAH4AC4aU47J0AAxqc29uRm9ybWF0MjFzcQB+AAvT138zdAAUcHJvZHVjdEVsZW1lbnQyRmllbGRzcQB+AAscqI9/dAAKcm9vdEZvcm1hdHNxAH4AC4m7ZiN0AA5jb3B5JGRlZmF1bHQkOHNxAH4AC2qRCOd0AB5wcm9kdWN0RWxlbWVudDJGaWVsZCRkZWZhdWx0JDRzcQB+AAu3fIiYdAAManNvbkZvcm1hdDE0c3EAfgALftJfgXQADmdldFJlc3RDb250ZW50c3EAfgALSgvpLHQACGNhbkVxdWFsc3EAfgAL+94hFHQAC2pzb25Gb3JtYXQxc3EAfgALCFG//XQADnJvb3RKc29uRm9ybWF0c3EAfgALSsnZ/nQAGWdldEFsbEFkdmVydGlzZXJzRnJvbVBQYXNzcQB+AAslq/xwdAAOQ29yckFkdmVydGlzZXJzcQB+AAtzFKbHdAAOY29weSRkZWZhdWx0JDRzcQB+AAsgch6MdAAEbWFpbnNxAH4AC5r7rr90AA1wcm9kdWN0UHJlZml4c3EAfgALi/iyvXQADGpzb25Gb3JtYXQxOXNxAH4AC0Fqe9B0AAlub3RpZnlBbGxzcQB+AAuPKG/adAAIZGVsZWdhdGVzcQB+AAvXrF6GdAAMaXNJbnN0YW5jZU9mc3EAfgAL6wG91nQABXZhdElkc3EAfgALxGoOGnQACnBwYXNUaWNrZXRzcQB+AAuUwSGMdAAGPGluaXQ+c3EAfgAL6T1DTHQAAmlkc3EAfgALYTY5LnQACHJlYWRTb21lc3EAfgAL1alKm3QAC2pzb25Gb3JtYXQ0c3EAfgALDJXA43QAAj09c3EAfgALred2Y3QAHXNwcmF5SnNvbk1hcnNoYWxsZXIkZGVmYXVsdCQyc3EAfgALSiuqNnQAEWFkdmVydGlzZXJQUEFTVVJMc3EAfgALSbwjrHQABWNsb25lc3EAfgALgGql+nQADGpzb25Gb3JtYXQxMHNxAH4AC5jrxXB0AAtqc29uRm9ybWF0MHNxAH4AC0pJ9X50AAxqc29uRm9ybWF0MjJzcQB+AAtGPntsdAAOY29weSRkZWZhdWx0JDdzcQB+AAu3Y84tdAAMT3B0aW9uRm9ybWF0c3EAfgALmf2n5XQADGpzb25Gb3JtYXQxOHNxAH4AC64VlGp0ACZzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyJGRlZmF1bHQkMnNxAH4AC+bvh+h0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACxNkxuR0AARjb3B5c3EAfgALvMi/M3QABXRvQWR2c3EAfgALDS/EN3QABE1haW5zcQB+AAvtPaERdAAIdG9TdHJpbmdzcQB+AAv64TjJdAAKanNvbkZvcm1hdHNxAH4ACy5Vyjt0AAIhPXNxAH4AC47JyAJ0AAtqc29uRm9ybWF0OHNxAH4AC2siGct0AAhnZXRDbGFzc3NxAH4AC0Lxlyh0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC+2fmwJ0AA5jb3B5JGRlZmF1bHQkNnNxAH4AC2gQyKp0AAJuZXNxAH4AC47MioN0ABFwdXRQcGFzQWR2ZXJ0aXNlcnNxAH4AC7PzMU10ABZhZmZpbGlhdGVkQWR2ZXJ0aXNlcklkc3EAfgALWaLAlnQABGxpZnRzcQB+AAvwbQnYdAALanNvbkZvcm1hdDNzcQB+AAteKyDMdAACZXFzcQB+AAs6ksb4dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALLudKKnQABXdyaXRlc3EAfgALW5eRqXQACnNhZmVSZWFkZXJzcQB+AAvncgXMdAACIyNzcQB+AAuRSrDBdAAIZmluYWxpemVzcQB+AAs1vgwGdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvMO22MdAAIaGFzaENvZGVzcQB+AAsOhd4SdAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAvZtSxPdAAManNvbkZvcm1hdDE3c3EAfgALV3unI3QABmFjdGl2ZXNxAH4AC30eFBx0AAtqc29uRm9ybWF0N3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AS14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4A83VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AUV4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AUQAcHNxAH4BSXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgEtTAAJaW5oZXJpdGVkcQB+AS1MAAdwYXJlbnRzcQB+AS14cQB+AU1zcQB+AUQAcHNxAH4BSXVxAH4BKAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4BLnEAfgE3dXEAfgE4AAAAAHNxAH4BOgBxAH4Av3VxAH4BPAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFMdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BTHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BanVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AVd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AT90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AV5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AUxzcQB+AV10AAVBcnJheXEAfgFjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AV10AAZTdHJpbmdzcQB+AWFzcQB+AWR1cQB+AWcAAAADc3EAfgFpdAAEamF2YXNxAH4BaXQABGxhbmdxAH4BbnNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgGCAAAABHNxAH4BXXQAEUFkZGl0aW9uYWxGb3JtYXRzc3EAfgFhc3EAfgFkdXEAfgFnAAAAA3NxAH4BaXQABXNwcmF5c3EAfgFpdAAEanNvbnEAfgFuc3EAfgFddAAQU3ByYXlKc29uU3VwcG9ydHNxAH4BYXNxAH4BZHVxAH4BZwAAAANzcQB+AWl0AAVzcHJheXNxAH4BaXQABWh0dHB4cQB+AW5zcQB+AV10AAZPYmplY3RxAH4BhnNxAH4BXXQAA0FueXEAfgFjc3EAfgEqcQB+ATd1cQB+ATgAAAAAc3EAfgE6AHEAfgCZdXEAfgE8AAAAAH5xAH4BPnQACENsYXNzRGVmdXEAfgFCAAAAAHNxAH4BRABwc3EAfgFJcQB+AU5zcQB+AUQAcHNxAH4BSXNxAH4BUXNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgGCAAAABnNxAH4BXXQADFNlcmlhbGl6YWJsZXNxAH4BYXNxAH4BZHVxAH4BZwAAAAJzcQB+AWlxAH4BbHEAfgFuc3EAfgFdcQB+Ab9zcQB+AWFzcQB+AWR1cQB+AWcAAAADc3EAfgFpcQB+AYpzcQB+AWl0AAJpb3EAfgFuc3EAfgFddAAHUHJvZHVjdHEAfgHAc3EAfgFddAAGRXF1YWxzcQB+AcBzcQB+AV1xAH4BpnNxAH4BYXNxAH4BZHVxAH4BZwAAAANzcQB+AWlxAH4BinNxAH4BaXEAfgGMcQB+AW5zcQB+AV1xAH4BqHEAfgHAc3EAfgEqcQB+ATd1cQB+ATgAAAAAc3EAfgE6AHEAfgC7dXEAfgE8AAAAAHEAfgGtdXEAfgFCAAAAAHNxAH4BRABwc3EAfgFJcQB+AU5zcQB+AUQAcHNxAH4BSXNxAH4BUXNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgGCAAAABnNxAH4BXXEAfgG/c3EAfgFhc3EAfgFkdXEAfgFnAAAAAnNxAH4BaXEAfgFscQB+AW5zcQB+AV1xAH4Bv3NxAH4BYXNxAH4BZHVxAH4BZwAAAANzcQB+AWlxAH4BinNxAH4BaXQAAmlvcQB+AW5zcQB+AV1xAH4BzHEAfgHqc3EAfgFddAAGRXF1YWxzcQB+AepzcQB+AV1xAH4BpnNxAH4BYXNxAH4BZHVxAH4BZwAAAANzcQB+AWlxAH4BinNxAH4BaXEAfgGMcQB+AW5zcQB+AV1xAH4BqHEAfgHqc3EAfgEqcQB+ATd1cQB+ATgAAAAAc3EAfgE6AHEAfgCfdXEAfgE8AAAAAHEAfgFAdXEAfgFCAAAAAHNxAH4BRABwc3EAfgFJcQB+AU5zcQB+AUQAcHNxAH4BSXNxAH4BUXNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgEoAAAAAHNxAH4BRABwc3EAfgFJdXEAfgGCAAAACXNxAH4BXXQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+AWFzcQB+AWR1cQB+AWcAAAADc3EAfgFpdAAFc3ByYXlzcQB+AWl0AARqc29ucQB+AW5zcQB+AV10ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgIUc3EAfgFddAAOUHJvZHVjdEZvcm1hdHNxAH4CFHNxAH4BXXQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AhRzcQB+AV10ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgIUc3EAfgFddAAPU3RhbmRhcmRGb3JtYXRzcQB+AhRzcQB+AV10AAxCYXNpY0Zvcm1hdHNxAH4CFHNxAH4BXXEAfgGmc3EAfgFhc3EAfgFkdXEAfgFnAAAAA3NxAH4BaXEAfgGKc3EAfgFpcQB+AYxxAH4BbnNxAH4BXXEAfgGoc3EAfgFhc3EAfgFkdXEAfgFnAAAAAnNxAH4BaXEAfgFscQB+AW51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWkIE0hh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL2F0b21rZXZpY2gvZGV2L3dvcmtzcGFjZS9jb3JyZWN0X0FEVi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyYWNhM4tw2ld17WirCcRDhfskrg=
+external apis:
+0 items
+source infos:
+2 items
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Constants.scala -> 
+AAAAAAAAAAA=
+/Users/atomkevich/dev/workspace/correct_ADV/src/main/scala/Main.scala -> 
+AAAAAQAAAQAAABcAGCAgICBDb25zdGFudHMucHBhc1RpY2tldAEAAANgAQAAAA4BAA4gICAgICAgICAgICAgIAEARS9Vc2Vycy9hdG9ta2V2aWNoL2Rldi93b3Jrc3BhY2UvY29ycmVjdF9BRFYvc3JjL21haW4vc2NhbGEvTWFpbi5zY2FsYQEARS9Vc2Vycy9hdG9ta2V2aWNoL2Rldi93b3Jrc3BhY2UvY29ycmVjdF9BRFYvc3JjL21haW4vc2NhbGEvTWFpbi5zY2FsYQBfYSBwdXJlIGV4cHJlc3Npb24gZG9lcyBub3RoaW5nIGluIHN0YXRlbWVudCBwb3NpdGlvbjsgeW91IG1heSBiZSBvbWl0dGluZyBuZWNlc3NhcnkgcGFyZW50aGVzZXMBAAAAAA==
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWj0NnQ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9hdG9ta2V2aWNoL2Rldi93b3Jrc3BhY2UvY29ycmVjdF9BRFYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWkIE0hh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9hdG9ta2V2aWNoL2Rldi93b3Jrc3BhY2UvY29ycmVjdF9BRFYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
